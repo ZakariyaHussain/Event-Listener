@@ -1,0 +1,14 @@
+
+.main-style{
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 10px;
+
+}
+.style{
+    background-color: orange;
+    color: darkslategray;
+    font-size: 45px;
+    font-style: italic;
+    
+}
